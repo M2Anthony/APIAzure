@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qbzu9WgcAhbYW8Mfz1Uz38hU0+ANq970Sy41nnrw7Ew=",
+  "Source": "ApiAzure",
+  "BasePath": "_content/ApiAzure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

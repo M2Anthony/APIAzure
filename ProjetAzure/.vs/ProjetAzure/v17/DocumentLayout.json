@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Documents\\ProjetBlazorAzure\\ProjetAzure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDDD7B1-8531-4E6F-AB2D-D877E0814FCD}|ApiAzure\\ApiAzure.csproj|c:\\users\\administrateur\\documents\\projetblazorazure\\projetazure\\apiazure\\data\\fakedragondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDDD7B1-8531-4E6F-AB2D-D877E0814FCD}|ApiAzure\\ApiAzure.csproj|solutionrelative:apiazure\\data\\fakedragondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDDD7B1-8531-4E6F-AB2D-D877E0814FCD}|ApiAzure\\ApiAzure.csproj|c:\\users\\administrateur\\documents\\projetblazorazure\\projetazure\\apiazure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDDD7B1-8531-4E6F-AB2D-D877E0814FCD}|ApiAzure\\ApiAzure.csproj|solutionrelative:apiazure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDDD7B1-8531-4E6F-AB2D-D877E0814FCD}|ApiAzure\\ApiAzure.csproj|c:\\users\\administrateur\\documents\\projetblazorazure\\projetazure\\apiazure\\controllers\\dragoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDDD7B1-8531-4E6F-AB2D-D877E0814FCD}|ApiAzure\\ApiAzure.csproj|solutionrelative:apiazure\\controllers\\dragoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\ProjetBlazorAzure\\ProjetAzure\\ApiAzure\\Program.cs",
+              "RelativeDocumentMoniker": "ApiAzure\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\ProjetBlazorAzure\\ProjetAzure\\ApiAzure\\Program.cs",
+              "RelativeToolTip": "ApiAzure\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:14:18.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DragonController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\ProjetBlazorAzure\\ProjetAzure\\ApiAzure\\Controllers\\DragonController.cs",
+              "RelativeDocumentMoniker": "ApiAzure\\Controllers\\DragonController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\ProjetBlazorAzure\\ProjetAzure\\ApiAzure\\Controllers\\DragonController.cs",
+              "RelativeToolTip": "ApiAzure\\Controllers\\DragonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:10:28.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FakeDragonDb.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Documents\\ProjetBlazorAzure\\ProjetAzure\\ApiAzure\\Data\\FakeDragonDb.cs",
+              "RelativeDocumentMoniker": "ApiAzure\\Data\\FakeDragonDb.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Documents\\ProjetBlazorAzure\\ProjetAzure\\ApiAzure\\Data\\FakeDragonDb.cs",
+              "RelativeToolTip": "ApiAzure\\Data\\FakeDragonDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:10:28.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
